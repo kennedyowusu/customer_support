@@ -1,4 +1,4 @@
-import 'package:customer_support/support_Centre.dart';
+import 'package:customer_support/support_centre.dart';
 import 'package:flutter/material.dart';
 
 void main() {
